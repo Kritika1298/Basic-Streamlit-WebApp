@@ -10,7 +10,7 @@ git clone https://github.com/Kritika1298/Basic-Streamlit-WebApp
 
 cd Basic-Streamlit-WebApp
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 streamlit run main.py
 ```
