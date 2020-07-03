@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
-st.title("Streamlit Example")
+st.title("Data Classsification using Machine learning Algorithms")
 st.write("""
 # Explore different classifier
  Which one is the best?
