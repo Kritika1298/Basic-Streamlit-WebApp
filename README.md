@@ -3,7 +3,7 @@
 
 A basic Web App built using Streamline Python for Classification of data by varying parameters.
 
-## Web App for Natural Language Processing
+### Web App for Natural Language Processing
 
 It provides four features inclusive of Tokenization, Summarization, Entity Analysis and Sentimental Analysis.
 
